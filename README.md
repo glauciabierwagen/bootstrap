@@ -16,5 +16,5 @@
 - [Foundation](https://get.foundation/) (English)  
 - [Understanding the Bootstrap Gird System] (https://www.tutorialrepublic.com/twitter-bootstrap-tutorial/bootstrap-grid-system.php) (English)
 - [Library vs. Framework vs. API] (https://softwareengineering.stackexchange.com/questions/54451/library-vs-framework-vs-api) (English)
-- [10 popular CSS Frameworks](https://www.smartinfosys.net/blog/10-popular-css-frameworks-to-use-in-your-web-design/)(English)
+- [10 popular CSS Frameworks](https://www.smartinfosys.net/blog/10-popular-css-frameworks-to-use-in-your-web-design/) (English)
 
