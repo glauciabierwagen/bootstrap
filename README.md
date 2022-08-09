@@ -1,12 +1,20 @@
 # Bootstrap
-<b> Course IT Women - Front End </b> 
+<b> Course IT Women - Front End </b>
+<br>
+<p align="center">
+  <img src="https://github.com/glauciabierwagen/responsive-navigation/blob/main/images/readmeimage.png"  heigth="750"/>
+</p>
+
 
 ## Guidelines
-- Creation of a form that collects the different type of data, including all the form validations. The design should elaborate in Figma or your own design.  
+- Practice using Bootstrap by building a simple webpage using this framework.  
 
 ## Extra materials 
 
-- [Styling checkboxes with CSS](https://appitventures.com/blog/styling-checkbox-css-tips/) (English)
-- [Different cursor types](https://css-tricks.com/almanac/properties/c/cursor/) (English)
-- [Styling form inputs with CSS](https://css-tricks.com/custom-styling-form-inputs-with-modern-css-features/) (English)
-- [Form elements](https://www.w3schools.com/tags/tag_form.asp) (English)
+- [Bootstrap](https://getbootstrap.com/) (English) 
+- [Bulma](https://bulma.io/) (English) 
+- [Foundation](https://get.foundation/) (English)  
+- [Understanding the Bootstrap Gird System] (https://www.tutorialrepublic.com/twitter-bootstrap-tutorial/bootstrap-grid-system.php) (English)
+- [Library vs. Framework vs. API] (https://softwareengineering.stackexchange.com/questions/54451/library-vs-framework-vs-api) (English)
+- [10 popular CSS Frameworks](https://www.smartinfosys.net/blog/10-popular-css-frameworks-to-use-in-your-web-design/)(English)
+
